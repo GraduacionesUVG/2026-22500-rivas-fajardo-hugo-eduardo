@@ -1,0 +1,9 @@
+# entorno del análisis, el detector y sus pruebas
+# las versiones exactas de cada corrida quedan en el .procedencia.json de su tabla
+torch>=2.2
+torchvision>=0.17
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+pillow>=10.0
+pytest>=8.0

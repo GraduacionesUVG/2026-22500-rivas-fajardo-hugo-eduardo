@@ -1,0 +1,22 @@
+# entornos y credenciales
+.env
+.venv/
+venv/
+
+# cachés y temporales
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# archivos de IDE
+.idea/
+.vscode/
+
+# dependencias de Node, si algún día aplican
+node_modules/
+
+# puntos de control: se publican en el Hub, no en el repositorio
+*.pt
+*.safetensors

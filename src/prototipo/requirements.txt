@@ -1,0 +1,11 @@
+# prototipo del OE5 sobre ZeroGPU
+spaces
+huggingface_hub>=0.26
+gradio>=4.44
+torch>=2.2
+torchvision>=0.17
+transformers>=4.49
+accelerate>=0.30
+numpy>=1.26
+scipy>=1.11
+pillow>=10.0
